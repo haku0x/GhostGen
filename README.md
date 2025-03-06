@@ -14,26 +14,25 @@ GhostGen is a Discord bot designed to manage and distribute pre-existing  accoun
 
 ## 🛠 Installation
 ### 📌 Requirements
-- Python 3.x
+- Python 3.9 or higher
 - `discord.py` and required dependencies
 
 ### 🚀 Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/HakuGenBot.git
-   cd HakuGenBot
+   git clone https://github.com/haku0x/GhostGen.git
+   cd GhostGen
    ```
 2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 3. **Configure the bot:**
-   - Rename `config.example.json` to `config.json`
    - Edit `config.json` with your bot token and settings
 
 4. **Run the bot:**
    ```bash
-   python bot.py
+   python main.py
    ```
 
 ---
@@ -68,7 +67,7 @@ Edit `config.json` to set up your bot:
 ---
 
 ## ⚠️ Disclaimer
-GhostGen does **not** create or provide premium accounts. It is a management tool that helps distribute pre-existing accounts securely.
+GhostGen does **not** create or provide accounts. It is a management tool that helps distribute pre-existing accounts securely.
 
 ---
 
