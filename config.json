@@ -1,0 +1,14 @@
+{
+  "token": "YOUR_BOT_TOKEN",  // Your Discord bot token
+  "guild_id": "YOUR_GUILD_ID",  // The ID of your Discord server
+  "admin_role_id": YOUR_ADMIN_ROLE_ID,  // The role ID for administrators
+  "vip_role_id": YOUR_VIP_ROLE_ID,  // The role ID for VIP users
+  "normal_cooldown": 3600,  // Cooldown time (in seconds) for normal users
+  "vip_cooldown": 600,  // Cooldown time (in seconds) for VIP users
+  "embed_color": "0xFF5733",  // Default embed color
+  "embed_color_success": "0x00FF7F",  // Success message color
+  "embed_color_error": "0xFF0000",  // Error message color
+  "embed_color_info": "0x3498DB",  // Informational message color
+  "footer_text": "GhostGen v1.0 | Premium Account Generator",  // Footer text for embeds
+  "bot_avatar": "https://imgur.com/youravatar"  // Bot avatar URL
+}
